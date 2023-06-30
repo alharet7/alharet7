@@ -2,7 +2,7 @@
 - 👀 I am interested in engineering in general and software engineering in particular.
 - 🌱 I’m currently learning Web development.
 - 💞️ I'm looking to collaborate to make a difference in this field.
-- 📫 How to reach me? hdhareth@gmail.com
+- 📫 How to reach me? HARETHHD@OUTLOOK.com
 
 <!---
 alharet7/alharet7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
